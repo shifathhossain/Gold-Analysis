@@ -1,7 +1,11 @@
 import folium
 from folium.plugins import MarkerCluster
+
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 from data_cleaning import meteorites
 
 # Create a base map centered at the equator with an initial zoom level of 2
@@ -29,5 +33,14 @@ for index, row in meteorites.iterrows():
 
 # Save the map to an HTML file
 map_file_path = 'meteorite_landings_map.html'
-m.save(map_file_path)
 
+
+
+# Bar chart for meteorite types
+plt.figure(figsize=(12, 6))
+sns.countplot(data=meteorites, x='recclass', order=meteorites['recclass'].value_counts().index)
+plt.xticks(rotation=90)
+plt.title('Distribution of Meteorite Types')
+plt.xlabel('Meteorite Type')
+plt.ylabel('Count')
+plt.show()
