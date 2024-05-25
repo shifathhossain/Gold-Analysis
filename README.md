@@ -36,7 +36,10 @@ Temporal Trends: Visualized the number of meteorite landings over time using his
 Correlation Analysis: Explored correlations between different attributes such as mass, classification, and geographic location.
 
 # Visualizations
-Interactive Map: An interactive map showing meteorite landings with clustering for better visualization of dense areas.
-Histograms: Temporal analysis of meteorite landings over the years.
-Bar Charts: Distribution of meteorite types.
-Correlation Matrix: Heatmap showing correlations between numerical attributes.
+Interactive Map: An interactive map showing meteorite landings with clustering for better visualization of dense areas
+
+Histograms: Temporal analysis of meteorite landings over the years
+
+Bar Charts: Distribution of meteorite types
+
+Correlation Matrix: Heatmap showing correlations between numerical attributes
