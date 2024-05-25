@@ -27,10 +27,20 @@ for index, row in meteorites.iterrows():
 
 map_file_path = 'meteorite_landings_map.html'
 
+# Meteorite Types Bar Chart
 plt.figure(figsize=(12, 6))
 sns.countplot(data=meteorites, x='recclass', order=meteorites['recclass'].value_counts().index)
 plt.xticks(rotation=90)
 plt.title('Distribution of Meteorite Types')
 plt.xlabel('Meteorite Type')
 plt.ylabel('Count')
+plt.show()
+
+# Correlation analysis
+correlation_matrix = meteorites[['mass (g)', 'reclat', 'reclong']].corr()
+print(correlation_matrix)
+
+plt.figure(figsize=(8, 6))
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm')
+plt.title('Correlation Matrix')
 plt.show()
