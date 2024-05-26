@@ -27,6 +27,14 @@ for index, row in meteorites.iterrows():
 
 map_file_path = 'meteorite_landings_map.html'
 
+# Temporal Analysis
+plt.figure(figsize=(12, 6))
+sns.histplot(meteorites['year'].dropna(), bins=50, kde=True)
+plt.title('Number of Meteorite Landings Over Time')
+plt.xlabel('Year')
+plt.ylabel('Number of Landings')
+plt.show()
+
 # Meteorite Types Bar Chart
 plt.figure(figsize=(12, 6))
 sns.countplot(data=meteorites, x='recclass', order=meteorites['recclass'].value_counts().index)
@@ -36,7 +44,7 @@ plt.xlabel('Meteorite Type')
 plt.ylabel('Count')
 plt.show()
 
-# Correlation analysis
+# Correlation Analysis
 correlation_matrix = meteorites[['mass (g)', 'reclat', 'reclong']].corr()
 print(correlation_matrix)
 
