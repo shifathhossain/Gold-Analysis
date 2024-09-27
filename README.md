@@ -18,7 +18,7 @@ Libraries:
 Pandas - data manipulation
 NumPy - numerical operations
 Matplotlib and Seaborn - data visualization
-Folium - geospatial visualization
+
 
 # Data Cleaning
 - Handled missing values by forward filling
@@ -26,20 +26,7 @@ Folium - geospatial visualization
 - Ensured latitude and longitude columns were numeric
 - Dropped rows with missing latitude or longitude values
 
-
-Descriptive Statistics: Summarized key metrics such as mass, geographic location, and classification of meteorites.
-
-Geographic Distribution: Created an interactive map using Folium and MarkerCluster to display the geographic distribution of meteorite landings.
-
-Temporal Trends: Visualized the number of meteorite landings over time using histograms and KDE plots.
-
-Correlation Analysis: Explored correlations between different attributes such as mass, classification, and geographic location.
-
 # Visualizations
-Interactive Map: An interactive map showing meteorite landings with clustering for better visualization of dense areas
-
-Histograms: Temporal analysis of meteorite landings over the years
-
 Bar Charts: Distribution of meteorite types
 
-Correlation Matrix: Heatmap showing correlations between numerical attributes
+Tableau Visualization: https://public.tableau.com/views/MeteoriteDataVisualization/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
