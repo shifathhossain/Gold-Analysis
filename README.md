@@ -14,10 +14,12 @@ The dataset contains information about meteorite landings, including name, id, t
 
 # Tools and Technologies
 Programming Language: Python
+
 Libraries:
-Pandas - data manipulation
-NumPy - numerical operations
-Matplotlib and Seaborn - data visualization
+- Pandas - data manipulation
+- NumPy - numerical operations
+- Matplotlib and Seaborn - data visualization
+
 Software: VS Code, Tableau
 
 
