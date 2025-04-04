@@ -28,12 +28,3 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-# Virtual environments
-env/
-venv/
-gold-env/
-ENV/
-.venv/
-Include/
-Lib/
-Scripts/
