@@ -1,0 +1,481 @@
+country,quarter,demand_tonnes
+India,Q1'20,101.9
+China,Q1'20,106.5
+United States,Q1'20,37.7
+Turkyie,Q1'20,31.9
+Russian Federation,Q1'20,10.8
+Germany,Q1'20,47.7
+Thailand,Q1'20,7.5
+Islamic Republic of Iran,Q1'20,16.6
+Vietnam,Q1'20,16.8
+UAE,Q1'20,11.3
+Indonesia,Q1'20,8.0
+Saudi Arabia,Q1'20,9.4
+Egypt,Q1'20,7.8
+Pakistan,Q1'20,11.3
+United Kingdom,Q1'20,6.8
+Italy,Q1'20,2.0
+Switzerland,Q1'20,14.0
+"Korea, Republic of",Q1'20,7.9
+Canada,Q1'20,4.3
+Australia,Q1'20,0.0
+France,Q1'20,3.2
+Brazil,Q1'20,3.6
+Kuwait,Q1'20,4.2
+Malaysia,Q1'20,3.3
+Mexico,Q1'20,3.8
+Singapore,Q1'20,2.9
+Japan,Q1'20,-3.5
+Sri Lanka,Q1'20,1.3
+Spain,Q1'20,1.7
+Austria,Q1'20,2.8
+India,Q2'20,63.7
+China,Q2'20,137.0
+United States,Q2'20,32.8
+Turkyie,Q2'20,23.9
+Russian Federation,Q2'20,4.9
+Germany,Q2'20,45.1
+Thailand,Q2'20,-39.9
+Islamic Republic of Iran,Q2'20,9.9
+Vietnam,Q2'20,6.8
+UAE,Q2'20,2.1
+Indonesia,Q2'20,7.3
+Saudi Arabia,Q2'20,3.0
+Egypt,Q2'20,2.0
+Pakistan,Q2'20,2.3
+United Kingdom,Q2'20,5.8
+Italy,Q2'20,1.8
+Switzerland,Q2'20,11.8
+"Korea, Republic of",Q2'20,7.7
+Canada,Q2'20,4.1
+Australia,Q2'20,0.0
+France,Q2'20,2.5
+Brazil,Q2'20,4.0
+Kuwait,Q2'20,3.0
+Malaysia,Q2'20,2.3
+Mexico,Q2'20,3.1
+Singapore,Q2'20,1.2
+Japan,Q2'20,0.1
+Sri Lanka,Q2'20,0.5
+Spain,Q2'20,1.6
+Austria,Q2'20,3.3
+India,Q3'20,94.6
+China,Q3'20,183.1
+United States,Q3'20,50.1
+Turkyie,Q3'20,55.5
+Russian Federation,Q3'20,9.0
+Germany,Q3'20,30.7
+Thailand,Q3'20,-43.8
+Islamic Republic of Iran,Q3'20,16.3
+Vietnam,Q3'20,6.6
+UAE,Q3'20,5.2
+Indonesia,Q3'20,9.9
+Saudi Arabia,Q3'20,9.6
+Egypt,Q3'20,6.3
+Pakistan,Q3'20,6.3
+United Kingdom,Q3'20,6.4
+Italy,Q3'20,2.4
+Switzerland,Q3'20,7.5
+"Korea, Republic of",Q3'20,9.9
+Canada,Q3'20,4.9
+Australia,Q3'20,0.0
+France,Q3'20,3.2
+Brazil,Q3'20,3.5
+Kuwait,Q3'20,2.5
+Malaysia,Q3'20,3.7
+Mexico,Q3'20,3.2
+Singapore,Q3'20,2.6
+Japan,Q3'20,3.6
+Sri Lanka,Q3'20,0.7
+Spain,Q3'20,1.5
+Austria,Q3'20,2.4
+India,Q4'20,186.2
+China,Q4'20,214.7
+United States,Q4'20,66.8
+Turkyie,Q4'20,35.7
+Russian Federation,Q4'20,10.1
+Germany,Q4'20,42.6
+Thailand,Q4'20,-5.3
+Islamic Republic of Iran,Q4'20,13.5
+Vietnam,Q4'20,9.6
+UAE,Q4'20,8.1
+Indonesia,Q4'20,12.5
+Saudi Arabia,Q4'20,9.1
+Egypt,Q4'20,7.4
+Pakistan,Q4'20,8.9
+United Kingdom,Q4'20,10.6
+Italy,Q4'20,7.6
+Switzerland,Q4'20,9.6
+"Korea, Republic of",Q4'20,9.8
+Canada,Q4'20,7.5
+Australia,Q4'20,0.0
+France,Q4'20,5.1
+Brazil,Q4'20,4.9
+Kuwait,Q4'20,3.4
+Malaysia,Q4'20,3.8
+Mexico,Q4'20,3.2
+Singapore,Q4'20,2.7
+Japan,Q4'20,4.3
+Sri Lanka,Q4'20,1.7
+Spain,Q4'20,2.1
+Austria,Q4'20,3.1
+India,Q1'21,165.8
+China,Q1'21,289.3
+United States,Q1'21,58.2
+Turkyie,Q1'21,53.2
+Russian Federation,Q1'21,10.3
+Germany,Q1'21,45.6
+Thailand,Q1'21,8.3
+Islamic Republic of Iran,Q1'21,12.2
+Vietnam,Q1'21,18.6
+UAE,Q1'21,10.7
+Indonesia,Q1'21,11.5
+Saudi Arabia,Q1'21,11.0
+Egypt,Q1'21,8.9
+Pakistan,Q1'21,11.9
+United Kingdom,Q1'21,6.0
+Italy,Q1'21,2.2
+Switzerland,Q1'21,13.0
+"Korea, Republic of",Q1'21,10.9
+Canada,Q1'21,5.4
+Australia,Q1'21,7.7
+France,Q1'21,3.8
+Brazil,Q1'21,3.3
+Kuwait,Q1'21,4.5
+Malaysia,Q1'21,4.2
+Mexico,Q1'21,3.2
+Singapore,Q1'21,3.5
+Japan,Q1'21,8.2
+Sri Lanka,Q1'21,1.8
+Spain,Q1'21,1.6
+Austria,Q1'21,3.2
+India,Q2'21,119.6
+China,Q2'21,211.5
+United States,Q2'21,67.4
+Turkyie,Q2'21,12.2
+Russian Federation,Q2'21,10.8
+Germany,Q2'21,46.9
+Thailand,Q2'21,7.5
+Islamic Republic of Iran,Q2'21,9.4
+Vietnam,Q2'21,12.6
+UAE,Q2'21,8.8
+Indonesia,Q2'21,8.1
+Saudi Arabia,Q2'21,10.1
+Egypt,Q2'21,7.8
+Pakistan,Q2'21,9.2
+United Kingdom,Q2'21,7.6
+Italy,Q2'21,3.4
+Switzerland,Q2'21,12.0
+"Korea, Republic of",Q2'21,9.4
+Canada,Q2'21,6.9
+Australia,Q2'21,7.8
+France,Q2'21,2.9
+Brazil,Q2'21,4.2
+Kuwait,Q2'21,4.4
+Malaysia,Q2'21,3.3
+Mexico,Q2'21,3.5
+Singapore,Q2'21,2.7
+Japan,Q2'21,0.2
+Sri Lanka,Q2'21,1.0
+Spain,Q2'21,1.9
+Austria,Q2'21,2.9
+India,Q3'21,168.0
+China,Q3'21,228.7
+United States,Q3'21,56.2
+Turkyie,Q3'21,18.5
+Russian Federation,Q3'21,12.7
+Germany,Q3'21,35.8
+Thailand,Q3'21,8.6
+Islamic Republic of Iran,Q3'21,15.4
+Vietnam,Q3'21,3.3
+UAE,Q3'21,10.1
+Indonesia,Q3'21,13.1
+Saudi Arabia,Q3'21,11.0
+Egypt,Q3'21,9.0
+Pakistan,Q3'21,9.7
+United Kingdom,Q3'21,8.3
+Italy,Q3'21,2.7
+Switzerland,Q3'21,9.1
+"Korea, Republic of",Q3'21,9.1
+Canada,Q3'21,4.6
+Australia,Q3'21,6.5
+France,Q3'21,3.2
+Brazil,Q3'21,3.7
+Kuwait,Q3'21,3.7
+Malaysia,Q3'21,2.2
+Mexico,Q3'21,3.5
+Singapore,Q3'21,2.1
+Japan,Q3'21,5.9
+Sri Lanka,Q3'21,0.6
+Spain,Q3'21,1.8
+Austria,Q3'21,2.5
+India,Q4'21,343.9
+China,Q4'21,264.2
+United States,Q4'21,83.1
+Turkyie,Q4'21,11.3
+Russian Federation,Q4'21,13.0
+Germany,Q4'21,45.4
+Thailand,Q4'21,12.4
+Islamic Republic of Iran,Q4'21,14.9
+Vietnam,Q4'21,8.5
+UAE,Q4'21,12.0
+Indonesia,Q4'21,14.0
+Saudi Arabia,Q4'21,12.1
+Egypt,Q4'21,8.5
+Pakistan,Q4'21,10.3
+United Kingdom,Q4'21,12.9
+Italy,Q4'21,8.9
+Switzerland,Q4'21,9.7
+"Korea, Republic of",Q4'21,10.2
+Canada,Q4'21,9.1
+Australia,Q4'21,8.9
+France,Q4'21,7.2
+Brazil,Q4'21,5.1
+Kuwait,Q4'21,3.9
+Malaysia,Q4'21,5.1
+Mexico,Q4'21,3.9
+Singapore,Q4'21,3.2
+Japan,Q4'21,1.2
+Sri Lanka,Q4'21,0.8
+Spain,Q4'21,2.5
+Austria,Q4'21,3.6
+India,Q1'22,135.5
+China,Q1'22,234.9
+United States,Q1'22,57.6
+Turkyie,Q1'22,17.6
+Russian Federation,Q1'22,13.9
+Germany,Q1'22,48.7
+Thailand,Q1'22,3.8
+Islamic Republic of Iran,Q1'22,17.7
+Vietnam,Q1'22,19.6
+UAE,Q1'22,14.5
+Indonesia,Q1'22,10.5
+Saudi Arabia,Q1'22,11.7
+Egypt,Q1'22,12.2
+Pakistan,Q1'22,9.7
+United Kingdom,Q1'22,7.1
+Italy,Q1'22,2.5
+Switzerland,Q1'22,13.5
+"Korea, Republic of",Q1'22,9.1
+Canada,Q1'22,6.1
+Australia,Q1'22,10.3
+France,Q1'22,4.4
+Brazil,Q1'22,3.4
+Kuwait,Q1'22,4.1
+Malaysia,Q1'22,5.2
+Mexico,Q1'22,3.2
+Singapore,Q1'22,4.1
+Japan,Q1'22,-6.8
+Sri Lanka,Q1'22,2.2
+Spain,Q1'22,1.7
+Austria,Q1'22,3.7
+India,Q2'22,170.7
+China,Q2'22,148.4
+United States,Q2'22,65.5
+Turkyie,Q2'22,17.8
+Russian Federation,Q2'22,15.0
+Germany,Q2'22,51.5
+Thailand,Q2'22,8.5
+Islamic Republic of Iran,Q2'22,14.5
+Vietnam,Q2'22,14.0
+UAE,Q2'22,15.4
+Indonesia,Q2'22,9.4
+Saudi Arabia,Q2'22,12.2
+Egypt,Q2'22,10.3
+Pakistan,Q2'22,11.5
+United Kingdom,Q2'22,8.1
+Italy,Q2'22,3.8
+Switzerland,Q2'22,11.6
+"Korea, Republic of",Q2'22,8.4
+Canada,Q2'22,7.1
+Australia,Q2'22,8.3
+France,Q2'22,4.3
+Brazil,Q2'22,4.4
+Kuwait,Q2'22,4.8
+Malaysia,Q2'22,4.5
+Mexico,Q2'22,3.5
+Singapore,Q2'22,3.8
+Japan,Q2'22,0.1
+Sri Lanka,Q2'22,0.4
+Spain,Q2'22,2.0
+Austria,Q2'22,3.0
+India,Q3'22,191.7
+China,Q3'22,242.7
+United States,Q3'22,55.2
+Turkyie,Q3'22,47.0
+Russian Federation,Q3'22,16.1
+Germany,Q3'22,44.2
+Thailand,Q3'22,12.1
+Islamic Republic of Iran,Q3'22,22.6
+Vietnam,Q3'22,12.0
+UAE,Q3'22,12.9
+Indonesia,Q3'22,14.9
+Saudi Arabia,Q3'22,13.5
+Egypt,Q3'22,15.0
+Pakistan,Q3'22,13.0
+United Kingdom,Q3'22,8.6
+Italy,Q3'22,3.1
+Switzerland,Q3'22,11.0
+"Korea, Republic of",Q3'22,7.0
+Canada,Q3'22,5.3
+Australia,Q3'22,9.0
+France,Q3'22,3.6
+Brazil,Q3'22,3.9
+Kuwait,Q3'22,5.1
+Malaysia,Q3'22,3.7
+Mexico,Q3'22,3.5
+Singapore,Q3'22,3.3
+Japan,Q3'22,7.4
+Sri Lanka,Q3'22,0.3
+Spain,Q3'22,1.9
+Austria,Q3'22,3.3
+India,Q4'22,276.3
+China,Q4'22,199.0
+United States,Q4'22,74.0
+Turkyie,Q4'22,39.3
+Russian Federation,Q4'22,15.6
+Germany,Q4'22,52.1
+Thailand,Q4'22,14.0
+Islamic Republic of Iran,Q4'22,16.8
+Vietnam,Q4'22,13.5
+UAE,Q4'22,12.6
+Indonesia,Q4'22,14.8
+Saudi Arabia,Q4'22,12.8
+Egypt,Q4'22,14.0
+Pakistan,Q4'22,10.1
+United Kingdom,Q4'22,11.9
+Italy,Q4'22,10.1
+Switzerland,Q4'22,12.6
+"Korea, Republic of",Q4'22,7.8
+Canada,Q4'22,9.1
+Australia,Q4'22,8.6
+France,Q4'22,7.7
+Brazil,Q4'22,5.3
+Kuwait,Q4'22,4.8
+Malaysia,Q4'22,5.2
+Mexico,Q4'22,4.1
+Singapore,Q4'22,3.6
+Japan,Q4'22,3.7
+Sri Lanka,Q4'22,0.9
+Spain,Q4'22,2.5
+Austria,Q4'22,4.2
+India,Q1'23,126.3
+China,Q1'23,273.9
+United States,Q1'23,58.0
+Turkyie,Q1'23,60.0
+Russian Federation,Q1'23,15.0
+Germany,Q1'23,13.7
+Thailand,Q1'23,7.4
+Islamic Republic of Iran,Q1'23,20.0
+Vietnam,Q1'23,17.2
+UAE,Q1'23,12.0
+Indonesia,Q1'23,11.9
+Saudi Arabia,Q1'23,13.4
+Egypt,Q1'23,15.8
+Pakistan,Q1'23,9.9
+United Kingdom,Q1'23,7.0
+Italy,Q1'23,2.6
+Switzerland,Q1'23,10.8
+"Korea, Republic of",Q1'23,7.4
+Canada,Q1'23,5.6
+Australia,Q1'23,6.9
+France,Q1'23,4.6
+Brazil,Q1'23,3.3
+Kuwait,Q1'23,4.1
+Malaysia,Q1'23,4.4
+Mexico,Q1'23,3.3
+Singapore,Q1'23,3.3
+Japan,Q1'23,1.5
+Sri Lanka,Q1'23,2.7
+Spain,Q1'23,1.7
+Austria,Q1'23,1.3
+India,Q2'23,158.1
+China,Q2'23,191.9
+United States,Q2'23,68.1
+Turkyie,Q2'23,51.9
+Russian Federation,Q2'23,16.9
+Germany,Q2'23,14.1
+Thailand,Q2'23,7.6
+Islamic Republic of Iran,Q2'23,18.9
+Vietnam,Q2'23,12.7
+UAE,Q2'23,13.3
+Indonesia,Q2'23,8.4
+Saudi Arabia,Q2'23,12.8
+Egypt,Q2'23,17.1
+Pakistan,Q2'23,11.1
+United Kingdom,Q2'23,7.3
+Italy,Q2'23,3.8
+Switzerland,Q2'23,8.1
+"Korea, Republic of",Q2'23,6.6
+Canada,Q2'23,6.6
+Australia,Q2'23,6.9
+France,Q2'23,4.0
+Brazil,Q2'23,4.3
+Kuwait,Q2'23,5.5
+Malaysia,Q2'23,3.8
+Mexico,Q2'23,3.6
+Singapore,Q2'23,3.0
+Japan,Q2'23,6.5
+Sri Lanka,Q2'23,2.9
+Spain,Q2'23,2.0
+Austria,Q2'23,0.9
+India,Q3'23,210.2
+China,Q3'23,247.4
+United States,Q3'23,51.4
+Turkyie,Q3'23,39.8
+Russian Federation,Q3'23,19.6
+Germany,Q3'23,13.7
+Thailand,Q3'23,13.0
+Islamic Republic of Iran,Q3'23,17.8
+Vietnam,Q3'23,11.9
+UAE,Q3'23,12.6
+Indonesia,Q3'23,12.6
+Saudi Arabia,Q3'23,13.8
+Egypt,Q3'23,12.6
+Pakistan,Q3'23,11.6
+United Kingdom,Q3'23,7.1
+Italy,Q3'23,3.0
+Switzerland,Q3'23,8.0
+"Korea, Republic of",Q3'23,5.9
+Canada,Q3'23,4.1
+Australia,Q3'23,5.0
+France,Q3'23,2.6
+Brazil,Q3'23,3.9
+Kuwait,Q3'23,4.9
+Malaysia,Q3'23,3.7
+Mexico,Q3'23,3.6
+Singapore,Q3'23,2.7
+Japan,Q3'23,4.5
+Sri Lanka,Q3'23,2.3
+Spain,Q3'23,1.9
+Austria,Q3'23,0.9
+India,Q4'23,266.2
+China,Q4'23,245.9
+United States,Q4'23,75.0
+Turkyie,Q4'23,40.5
+Russian Federation,Q4'23,19.6
+Germany,Q4'23,16.1
+Thailand,Q4'23,15.1
+Islamic Republic of Iran,Q4'23,15.0
+Vietnam,Q4'23,13.7
+UAE,Q4'23,13.3
+Indonesia,Q4'23,12.5
+Saudi Arabia,Q4'23,12.3
+Egypt,Q4'23,11.5
+Pakistan,Q4'23,10.4
+United Kingdom,Q4'23,9.6
+Italy,Q4'23,9.4
+Switzerland,Q4'23,8.8
+"Korea, Republic of",Q4'23,7.7
+Canada,Q4'23,7.5
+Australia,Q4'23,6.3
+France,Q4'23,5.6
+Brazil,Q4'23,5.5
+Kuwait,Q4'23,5.1
+Malaysia,Q4'23,4.7
+Mexico,Q4'23,4.2
+Singapore,Q4'23,3.6
+Japan,Q4'23,3.4
+Sri Lanka,Q4'23,2.6
+Spain,Q4'23,2.5
+Austria,Q4'23,1.1
