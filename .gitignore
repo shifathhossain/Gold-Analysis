@@ -27,3 +27,13 @@ Thumbs.db
 # Ignore Python cache
 __pycache__/
 *.pyc
+
+# Virtual environments
+env/
+venv/
+gold-env/
+ENV/
+.venv/
+Include/
+Lib/
+Scripts/
